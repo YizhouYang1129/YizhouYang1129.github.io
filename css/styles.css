@@ -86,3 +86,7 @@ body {
     border-radius: 50%;
     /* Makes the image circular */
 }
+
+hr {
+    margin-bottom: 0;
+}
